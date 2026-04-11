@@ -1,8 +1,3 @@
--- ==============================================================================
--- 🚀 LONELYX-HUB (DOORS) - ULTIMATE FULL VERSION (UPDATED & OPTIMIZED)
--- Nâng cấp: Chống Crash UI, Safe Auto Loot, Tối ưu hóa ESP, Drawing API Fallback.
--- ==============================================================================
-
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
 local Lighting = game:GetService("Lighting")
