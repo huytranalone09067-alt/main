@@ -1,4 +1,4 @@
-# 🚀 LonelyX Scripting Hub [Underground War 2.0]
+# 🚀 LonelyX Scripting Hub
 
 ## 🌟 Introduction
 This repository serves as an **open-resource sandbox** and a **personal demo project** for my exploration into Lua scripting. It is a dedicated space where I document my technical journey in game automation, UI design, and performance optimization within the Roblox ecosystem.
